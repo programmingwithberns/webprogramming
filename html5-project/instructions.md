@@ -13,7 +13,10 @@ The website should have four pages, home, menu, contact and book
 
 ### Home Page
 The first page of the website
-*   This shall contain a brief information about the business and links to all other sites.
+*   This shall contain a brief information about the business in both text and audio. 
+    - The text is as shown in the home page sketch below. 
+    - She has provided you with an .mp3 recording of her voice (see [audio description](audio/audio-description.mp3))
+    - She also want that customers can connect to her youtube channel from the home page. The link to the youtube channel is https://www.youtube.com/@programmingwithberns 
 *   It shall contain a section called About with a photo of herself and a brief description of herself. She has given you an image of [herself](images/ceo.jpg). Her image is at [`views/ceo.jpg`](images/ceo.jpg). 
 *   It shall also contain images of the products that she sells with brief information about each product. See [products.json](products.json)
 * It shall contain links to the other pages

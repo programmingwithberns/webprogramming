@@ -11,14 +11,7 @@ At the completion of this project, the student should be able to do the followin
 *   Add a simple table onto a website
 *   Add an image in a website
 *   Add links on a website
-    *   Links within different sections of the website
-    *   Links to different pages on the same website
-    *   Links to other external websites
 *   Add media on a website
-    *   Add audio in a website
-    *   Add video on a website
-    *   Add Google Maps on a website
-    *   Add YouTube Player on a website
 *   Apply basic CSS styling on a website
 *   Create a basic HTML5 form
 
