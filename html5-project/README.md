@@ -1,3 +1,4 @@
+# Programming With Berns
 # Web Programming with HTML5 - Project 
 This contains the project description for a small restaurant website for a client. 
 
@@ -22,7 +23,7 @@ At the completion of this project, the student should be able to do the followin
 *   Create a basic HTML5 form
 
 ## Project Description
-The project description can be found in [instructions.md](instructions.md)
+The project description can be found in [instructions.md](instructions.md) or [instructions.pdf](instructions.pdf)
 
 
 ### Credits
