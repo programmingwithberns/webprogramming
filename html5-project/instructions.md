@@ -40,7 +40,7 @@ Below is a sketch of the menu page
 * It shall contain links to the other pages
 
 Below is a sketch of the contact page
-![The Contact Page of Ebangha Cakes & Pasteries](views/ebangha-cake-and-pastries-Contact.png "The Contact Page of Ebangha Cakes & Pasteries")
+![The Contact Page of Ebangha Cakes & Pasteries](views/ebangha-cake-and-pastries-contact.png "The Contact Page of Ebangha Cakes & Pasteries")
 
     
 ### Booking Page 
