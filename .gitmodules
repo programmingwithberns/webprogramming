@@ -1,3 +1,4 @@
 [submodule "css-project"]
 	path = css-project
 	url = https://github.com/programmingwithberns/css-project.git
+	branch = main
